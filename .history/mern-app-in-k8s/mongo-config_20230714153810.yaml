@@ -1,9 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: mongo-configmap
-data:
-  mongoURL: mongo-service
-
-
-# Path: mern-app-in-k8s/deployment.yml
